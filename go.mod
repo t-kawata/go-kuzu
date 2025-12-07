@@ -1,4 +1,4 @@
-module github.com/kuzudb/go-kuzu
+module github.com/t-kawata/go-kuzu
 
 go 1.20
 
